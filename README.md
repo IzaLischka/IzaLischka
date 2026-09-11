@@ -47,7 +47,7 @@ Today that shows up as pipelines built at scale, strategic and cross-team, never
   <a href="https://www.linkedin.com/in/izadoralis/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/linkedin-dark.svg">
-      <img src="./assets/linkedin-light.svg" alt="Linkedin">
+      <img src="./assets/linkedin-light.svg" alt="LinkedIn">
     </picture>
   </a>
 </p>
