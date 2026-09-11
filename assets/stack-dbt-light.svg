@@ -1,7 +1,0 @@
-<svg width="56" height="56" viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg">
-  <g fill="#3B0F14" opacity="0.9">
-    <ellipse cx="28" cy="14" rx="15" ry="5.5"/>
-    <path d="M13 14v13c0 3 6.7 5.5 15 5.5s15-2.5 15-5.5V14c0 3-6.7 5.5-15 5.5S13 17 13 14z"/>
-    <path d="M13 27v13c0 3 6.7 5.5 15 5.5s15-2.5 15-5.5V27c0 3-6.7 5.5-15 5.5S13 30 13 27z"/>
-  </g>
-</svg>

@@ -1,0 +1,7 @@
+<svg width="184" height="28" viewBox="0 0 184 28" xmlns="http://www.w3.org/2000/svg">
+  <rect width="184" height="28" rx="2.5" fill="#2C0B0F"/>
+  <g transform="translate(8,6) scale(0.13)">
+    <g fill-rule="evenodd"><path d="M46.324 26.082L77.941 44.5v36.836L46.324 62.918zm0 0M81.41 44.5v36.836l31.633-18.418V26.082zm0 0M11.242 5.523V42.36L42.86 60.777V23.941zm0 0M77.941 85.375L46.324 66.957v36.824L77.941 122.2zm0 0"/></g>
+  </g>
+  <text x="38" y="18" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="12" letter-spacing="0.6" fill="#C9A878">TERRAFORM</text>
+</svg>

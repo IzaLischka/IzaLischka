@@ -1,0 +1,11 @@
+<svg width="198" height="28" viewBox="0 0 198 28" xmlns="http://www.w3.org/2000/svg">
+  <rect width="198" height="28" rx="2.5" fill="#2C0B0F"/>
+  <g transform="translate(8,4) scale(0.42)">
+    
+    <path d="M28 8L11 16.5 28 25l17-8.5z"/>
+    <path d="M11 24l17 8.5L45 24v6l-17 8.5L11 30z"/>
+    <path d="M11 34l17 8.5L45 34v6l-17 8.5L11 40z"/>
+  
+  </g>
+  <text x="42" y="18" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="12" letter-spacing="0.6" fill="#C9A878">DATABRICKS</text>
+</svg>

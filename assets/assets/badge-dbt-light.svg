@@ -1,0 +1,10 @@
+<svg width="105" height="28" viewBox="0 0 105 28" xmlns="http://www.w3.org/2000/svg">
+  <rect width="105" height="28" rx="2.5" fill="#2C0B0F"/>
+  <g transform="translate(2,4) scale(0.36)">
+    
+  <path d="M 28,28 L 36.51,30.93 L 43.56,43.56 L 30.93,36.51 Z" fill="#C9A878"/><path d="M 28,28 L 25.07,36.51 L 12.44,43.56 L 19.49,30.93 Z" fill="#C9A878"/><path d="M 28,28 L 19.49,25.07 L 12.44,12.44 L 25.07,19.49 Z" fill="#C9A878"/><path d="M 28,28 L 30.93,19.49 L 43.56,12.44 L 36.51,25.07 Z" fill="#C9A878"/>
+  <path d="M 28 22 L 34 28 L 28 34 L 22 28 Z" fill="#2C0B0F"/>
+
+  </g>
+  <text x="30" y="18" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="12" letter-spacing="0.6" fill="#C9A878">DBT</text>
+</svg>
