@@ -19,22 +19,26 @@ Today that shows up as pipelines built at scale, strategic and cross-team, never
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/laptop-dark.svg"><img src="./assets/laptop-light.svg" height="34" valign="middle" alt=""/></picture>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/heading-stack-dark.svg"><img src="./assets/heading-stack-light.svg" alt="Stack" height="34" valign="middle"></picture>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-2C0B0F?style=for-the-badge&logo=python&logoColor=C9A878" />
-  <img src="https://img.shields.io/badge/SQL-2C0B0F?style=for-the-badge&logo=postgresql&logoColor=C9A878" />
-  <img src="https://img.shields.io/badge/AWS-2C0B0F?style=for-the-badge&logo=amazonaws&logoColor=C9A878" />
-  <img src="https://img.shields.io/badge/Snowflake-2C0B0F?style=for-the-badge&logo=snowflake&logoColor=C9A878" />
-  <br/>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-2C0B0F?style=for-the-badge&logo=apacheairflow&logoColor=C9A878" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-2C0B0F?style=for-the-badge&logo=apachekafka&logoColor=C9A878" />
-  <img src="https://img.shields.io/badge/dbt-2C0B0F?style=for-the-badge&logo=dbt&logoColor=C9A878" />
-  <img src="https://img.shields.io/badge/Terraform-2C0B0F?style=for-the-badge&logo=terraform&logoColor=C9A878" />
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-2C0B0F?style=for-the-badge&logo=docker&logoColor=C9A878" />
-  <img src="https://img.shields.io/badge/Kubernetes-2C0B0F?style=for-the-badge&logo=kubernetes&logoColor=C9A878" />
-  <img src="https://img.shields.io/badge/PySpark-2C0B0F?style=for-the-badge&logo=apachespark&logoColor=C9A878" />
-  <img src="https://img.shields.io/badge/Databricks-2C0B0F?style=for-the-badge&logo=databricks&logoColor=C9A878" />
-</p>
+<table align="center" border="0" cellspacing="14" cellpadding="0">
+<tr>
+<td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-python-dark.svg"><img src="./assets/stack-python-light.svg" height="28"/></picture><br/><sub>Python</sub></td>
+<td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-postgresql-dark.svg"><img src="./assets/stack-postgresql-light.svg" height="28"/></picture><br/><sub>SQL</sub></td>
+<td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-amazonwebservices-dark.svg"><img src="./assets/stack-amazonwebservices-light.svg" height="28"/></picture><br/><sub>AWS</sub></td>
+<td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-snowflake-dark.svg"><img src="./assets/stack-snowflake-light.svg" height="28"/></picture><br/><sub>Snowflake</sub></td>
+</tr>
+<tr>
+<td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-apacheairflow-dark.svg"><img src="./assets/stack-apacheairflow-light.svg" height="28"/></picture><br/><sub>Airflow</sub></td>
+<td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-apachekafka-dark.svg"><img src="./assets/stack-apachekafka-light.svg" height="28"/></picture><br/><sub>Kafka</sub></td>
+<td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dbt-dark.svg"><img src="./assets/stack-dbt-light.svg" height="28"/></picture><br/><sub>dbt</sub></td>
+<td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-terraform-dark.svg"><img src="./assets/stack-terraform-light.svg" height="28"/></picture><br/><sub>Terraform</sub></td>
+</tr>
+<tr>
+<td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-docker-dark.svg"><img src="./assets/stack-docker-light.svg" height="28"/></picture><br/><sub>Docker</sub></td>
+<td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-kubernetes-dark.svg"><img src="./assets/stack-kubernetes-light.svg" height="28"/></picture><br/><sub>Kubernetes</sub></td>
+<td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-apachespark-dark.svg"><img src="./assets/stack-apachespark-light.svg" height="28"/></picture><br/><sub>PySpark</sub></td>
+<td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-databricks-dark.svg"><img src="./assets/stack-databricks-light.svg" height="28"/></picture><br/><sub>Databricks</sub></td>
+</tr>
+</table>
 
 <br/>
 
