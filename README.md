@@ -11,34 +11,30 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/book-dark.svg"><img src="./assets/book-light.svg" height="34" valign="middle" alt=""/></picture>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/heading-about-dark.svg"><img src="./assets/heading-about-light.svg" alt="About" height="34" valign="middle"></picture>
 
-Before data, I was support, then development, then data quality: each one left something behind. Support taught me to listen closely to what people actually need. Development turned software engineering into a way of thinking, not just a skill. Quality taught me that good data isn't just collected, it's monitored, validated, and earned.
+Before working with data, I was in support, then I went into development, and later into data quality: each stage taught me something that makes me a better and more complete data engineer today. Support taught me to really listen to what people actually need, to truly hear and understand the pain, and to seek a solution. Development turned software engineering into a way of thinking, a philosophy, not just a skill. Quality taught me that good data isn't just collected, it needs to be monitored, measured, validated, and documented constantly.
 
-Today that shows up as pipelines built for large-scale, real-time data, and infrastructure provisioned as code, across AWS, Snowflake, and the tools in between.
+Today that shows up as pipelines built at scale, strategic and cross-team, never built just to check a box. Every project has to earn its impact, whether that means pushing something new forward or finally closing an old gap, sometimes both.
 
 <br/>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/laptop-dark.svg"><img src="./assets/laptop-light.svg" height="34" valign="middle" alt=""/></picture>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/heading-stack-dark.svg"><img src="./assets/heading-stack-light.svg" alt="Stack" height="34" valign="middle"></picture>
 
-<table align="center" border="0" cellspacing="12" cellpadding="0">
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="26"/><br/><sub>Python</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="26"/><br/><sub>SQL</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="26"/><br/><sub>AWS</sub></td>
-<td align="center"><sub>Snowflake</sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" height="26"/><br/><sub>Airflow</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" height="26"/><br/><sub>Kafka</sub></td>
-<td align="center"><sub>dbt</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-plain.svg" height="26"/><br/><sub>Terraform</sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="26"/><br/><sub>Docker</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="26"/><br/><sub>Kubernetes</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" height="26"/><br/><sub>PySpark</sub></td>
-<td align="center"><sub>Databricks</sub></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-2C0B0F?style=for-the-badge&logo=python&logoColor=C9A878" />
+  <img src="https://img.shields.io/badge/SQL-2C0B0F?style=for-the-badge&logo=postgresql&logoColor=C9A878" />
+  <img src="https://img.shields.io/badge/AWS-2C0B0F?style=for-the-badge&logo=amazonaws&logoColor=C9A878" />
+  <img src="https://img.shields.io/badge/Snowflake-2C0B0F?style=for-the-badge&logo=snowflake&logoColor=C9A878" />
+  <br/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-2C0B0F?style=for-the-badge&logo=apacheairflow&logoColor=C9A878" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-2C0B0F?style=for-the-badge&logo=apachekafka&logoColor=C9A878" />
+  <img src="https://img.shields.io/badge/dbt-2C0B0F?style=for-the-badge&logo=dbt&logoColor=C9A878" />
+  <img src="https://img.shields.io/badge/Terraform-2C0B0F?style=for-the-badge&logo=terraform&logoColor=C9A878" />
+  <br/>
+  <img src="https://img.shields.io/badge/Docker-2C0B0F?style=for-the-badge&logo=docker&logoColor=C9A878" />
+  <img src="https://img.shields.io/badge/Kubernetes-2C0B0F?style=for-the-badge&logo=kubernetes&logoColor=C9A878" />
+  <img src="https://img.shields.io/badge/PySpark-2C0B0F?style=for-the-badge&logo=apachespark&logoColor=C9A878" />
+  <img src="https://img.shields.io/badge/Databricks-2C0B0F?style=for-the-badge&logo=databricks&logoColor=C9A878" />
+</p>
 
 <br/>
 
