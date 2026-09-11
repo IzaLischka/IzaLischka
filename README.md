@@ -11,7 +11,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/book-dark.svg"><img src="./assets/book-light.svg" height="34" valign="middle" alt=""/></picture>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/heading-about-dark.svg"><img src="./assets/heading-about-light.svg" alt="About" height="34" valign="middle"></picture>
 
-Before working with data, I was in support, then I went into development, and later into data quality: each stage taught me something that makes me a better and more complete data engineer today. Support taught me to really listen to what people actually need, to truly hear and understand the pain, and to seek a solution. Development turned software engineering into a way of thinking, a philosophy, not just a skill. Quality taught me that good data isn't just collected, it needs to be monitored, measured, validated, and documented constantly.
+Before working with data engineering, I was in support, then I went into development, and later into data quality: each stage taught me something that makes me a better and more complete data engineer today. Support taught me to really listen to what people actually need, to truly hear and understand the pain, and to seek a solution. Development turned software engineering into a way of thinking, a philosophy, not just a skill. Quality taught me that good data isn't just collected, it needs to be monitored, measured, validated, and documented constantly.
 
 Today that shows up as pipelines built at scale, strategic and cross-team, never built just to check a box. Every project has to earn its impact, whether that means pushing something new forward or finally closing an old gap, sometimes both.
 
