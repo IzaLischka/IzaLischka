@@ -20,20 +20,20 @@ Today that shows up as pipelines built at scale, strategic and cross-team, never
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/laptop-dark.svg"><img src="./assets/laptop-light.svg" height="34" valign="middle" alt=""/></picture>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/heading-stack-dark.svg"><img src="./assets/heading-stack-light.svg" alt="Stack" height="34" valign="middle"></picture>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-2C0B0F?style=for-the-badge&logo=python&logoColor=C9A878" />
-  <img src="https://img.shields.io/badge/SQL-2C0B0F?style=for-the-badge&logo=postgresql&logoColor=C9A878" />
-  <img src="https://img.shields.io/badge/AWS-2C0B0F?style=for-the-badge&logo=amazonaws&logoColor=C9A878" />
-  <img src="https://img.shields.io/badge/Snowflake-2C0B0F?style=for-the-badge&logo=snowflake&logoColor=C9A878" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-C9A878?style=for-the-badge&logo=python&logoColor=2C0B0F"><img src="https://img.shields.io/badge/Python-2C0B0F?style=for-the-badge&logo=python&logoColor=C9A878" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQL-C9A878?style=for-the-badge&logo=postgresql&logoColor=2C0B0F"><img src="https://img.shields.io/badge/SQL-2C0B0F?style=for-the-badge&logo=postgresql&logoColor=C9A878" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badge-aws-dark.svg"><img src="./assets/badge-aws-light.svg" height="34"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Snowflake-C9A878?style=for-the-badge&logo=snowflake&logoColor=2C0B0F"><img src="https://img.shields.io/badge/Snowflake-2C0B0F?style=for-the-badge&logo=snowflake&logoColor=C9A878" /></picture>
   <br/>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-2C0B0F?style=for-the-badge&logo=apacheairflow&logoColor=C9A878" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-2C0B0F?style=for-the-badge&logo=apachekafka&logoColor=C9A878" />
-  <img src="https://img.shields.io/badge/dbt-2C0B0F?style=for-the-badge&logo=dbt&logoColor=C9A878" />
-  <img src="https://img.shields.io/badge/Terraform-2C0B0F?style=for-the-badge&logo=terraform&logoColor=C9A878" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Apache%20Airflow-C9A878?style=for-the-badge&logo=apacheairflow&logoColor=2C0B0F"><img src="https://img.shields.io/badge/Apache%20Airflow-2C0B0F?style=for-the-badge&logo=apacheairflow&logoColor=C9A878" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Apache%20Kafka-C9A878?style=for-the-badge&logo=apachekafka&logoColor=2C0B0F"><img src="https://img.shields.io/badge/Apache%20Kafka-2C0B0F?style=for-the-badge&logo=apachekafka&logoColor=C9A878" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badge-dbt-dark.svg"><img src="./assets/badge-dbt-light.svg" height="34"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Terraform-C9A878?style=for-the-badge&logo=terraform&logoColor=2C0B0F"><img src="https://img.shields.io/badge/Terraform-2C0B0F?style=for-the-badge&logo=terraform&logoColor=C9A878" /></picture>
   <br/>
-  <img src="https://img.shields.io/badge/Docker-2C0B0F?style=for-the-badge&logo=docker&logoColor=C9A878" />
-  <img src="https://img.shields.io/badge/Kubernetes-2C0B0F?style=for-the-badge&logo=kubernetes&logoColor=C9A878" />
-  <img src="https://img.shields.io/badge/PySpark-2C0B0F?style=for-the-badge&logo=apachespark&logoColor=C9A878" />
-  <img src="https://img.shields.io/badge/Databricks-2C0B0F?style=for-the-badge&logo=databricks&logoColor=C9A878" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-C9A878?style=for-the-badge&logo=docker&logoColor=2C0B0F"><img src="https://img.shields.io/badge/Docker-2C0B0F?style=for-the-badge&logo=docker&logoColor=C9A878" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kubernetes-C9A878?style=for-the-badge&logo=kubernetes&logoColor=2C0B0F"><img src="https://img.shields.io/badge/Kubernetes-2C0B0F?style=for-the-badge&logo=kubernetes&logoColor=C9A878" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PySpark-C9A878?style=for-the-badge&logo=apachespark&logoColor=2C0B0F"><img src="https://img.shields.io/badge/PySpark-2C0B0F?style=for-the-badge&logo=apachespark&logoColor=C9A878" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Databricks-C9A878?style=for-the-badge&logo=databricks&logoColor=2C0B0F"><img src="https://img.shields.io/badge/Databricks-2C0B0F?style=for-the-badge&logo=databricks&logoColor=C9A878" /></picture>
 </p>
 
 <br/>
